@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Juwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=21700340JuwonBaek&show_icons=true&theme=radical)
 <!--
 **21700340JuwonBaek/21700340JuwonBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
